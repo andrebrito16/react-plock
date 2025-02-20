@@ -31,7 +31,7 @@
     "url": "https://github.com/askides/react-plock/issues"
   },
   "peerDependencies": {
-    "react": "^19.0.1"
+    "react": "^19.0.0"
   },
   "devDependencies": {
     "@types/react": "^19.0.1",
