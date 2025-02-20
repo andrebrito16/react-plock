@@ -24,6 +24,9 @@
     "lib:publish": "npm publish @andrebrito16/react-plock --access public",
     "lib:publish:dev": "npm publish @andrebrito16/react-plock --tag dev"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/askides/react-plock/issues"
   },
