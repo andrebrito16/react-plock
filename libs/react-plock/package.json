@@ -1,7 +1,7 @@
 {
   "name": "@andrebrito16/react-plock",
   "version": "3.4.0",
-  "description": "The 1kB Masonry Grid for React",
+  "description": "The 1kB Masonry Grid for React (Forked)",
   "author": "Renato Pozzi <askides@proton.me>",
   "homepage": "https://github.com/askides/react-plock#readme",
   "license": "ISC",
