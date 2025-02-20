@@ -1,7 +1,6 @@
 {
   "name": "react-plock",
   "version": "3.4.0",
-  "type": "module",
   "description": "The 1kB Masonry Grid for React",
   "author": "Renato Pozzi <askides@proton.me>",
   "homepage": "https://github.com/askides/react-plock#readme",
@@ -29,7 +28,7 @@
     "url": "https://github.com/askides/react-plock/issues"
   },
   "peerDependencies": {
-    "react": "^18.2.0"
+    "react": "^19.0.1"
   },
   "devDependencies": {
     "@types/react": "^19.0.1",
