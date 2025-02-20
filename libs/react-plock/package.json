@@ -21,8 +21,8 @@
   "scripts": {
     "test": "vitest run",
     "build": "vite build",
-    "lib:publish": "npm publish react-plock",
-    "lib:publish:dev": "npm publish react-plock --tag dev"
+    "lib:publish": "npm publish @andrebrito16/react-plock",
+    "lib:publish:dev": "npm publish @andrebrito16/react-plock --tag dev"
   },
   "bugs": {
     "url": "https://github.com/askides/react-plock/issues"
