@@ -21,7 +21,7 @@
   "scripts": {
     "test": "vitest run",
     "build": "vite build",
-    "lib:publish": "npm publish @andrebrito16/react-plock",
+    "lib:publish": "npm publish @andrebrito16/react-plock --access public",
     "lib:publish:dev": "npm publish @andrebrito16/react-plock --tag dev"
   },
   "bugs": {
